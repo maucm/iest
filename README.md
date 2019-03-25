@@ -13,7 +13,7 @@ La red neural artificial que se usara es un MLP, que se creara a partir de Keras
 ### Usaremos las siguientes librerias:
 ##### datos
 - Pandas
-- Numpu
+- Numpy
 
 ##### Visualizacion 
 - matplotlib.pyplot
