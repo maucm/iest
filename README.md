@@ -23,6 +23,7 @@ La red neural artificial que se usara es un MLP, que se creara a partir de Keras
 ##### Modelo
 - sklearn.model_selection - train_test_split
 - Keras
+- Tensorflow
 
 
 #### Los Datos: 
